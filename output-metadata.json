@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.beeappiary",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.cdd98322ab(2024-04-28 11:35:07 +0300)",
+      "outputFile": "BeeAppiary.apk"
+    }
+  ],
+  "elementType": "File"
+}
