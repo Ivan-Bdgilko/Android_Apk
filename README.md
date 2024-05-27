@@ -7,3 +7,6 @@ In winter, the change in the weight of the hive shows whether additional food is
 Maximum attention was paid to battery life and traffic minimization.
 
 It is also worth adding that the device does not collect personal and technical information and does not transfer it to third parties.
+
+Як налаштувати роботу в фоновому режимі якщо щось пішло не так
+https://express.ms/faq/background-work-fix/
