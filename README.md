@@ -1,5 +1,5 @@
 
-Version:  1.83d835ee4d(2024-07-14 19:18:25 +0300)
+Version:  1.b34a60d30d(2024-07-14 20:41:07 +0300)
   - Android 10.0(API 29) Downgrade support
   - Simple download data archive files only for current month (need direct connect to device for short time)
   - View archive current file(ability to analize offline)
