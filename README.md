@@ -1,3 +1,6 @@
+Version:  1.68148258ae(2024-07-15 18:25:25 +0300)
+  - App can read offline information for current year
+  - Interface to make request data by date range has been added also
 
 Version:  1.b34a60d30d(2024-07-14 20:41:07 +0300)
   - Android 10.0(API 29) Downgrade support
