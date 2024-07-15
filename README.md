@@ -1,3 +1,8 @@
+Version:  1.57f37102ee(2024-07-15 23:15:31 +0300)
+  - Filter data fixes
+  - Toast message for downloaded data has been added
+  - Minor fixes after download tests
+
 Version:  1.68148258ae(2024-07-15 18:25:25 +0300)
   - App can read offline information for current year
   - Interface to make request data by date range has been added also
