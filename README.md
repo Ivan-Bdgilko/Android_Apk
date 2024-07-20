@@ -1,8 +1,6 @@
 Latest:
-Version:  1.57f37102ee(2024-07-15 23:15:31 +0300)
-  - Filter data fixes
-  - Toast message for downloaded data has been added
-  - Minor fixes after download tests
+Version:  166ee72d4f(2024-07-20 20:04:19 +0300)
+  - Update history request interval fix one day history request(was empty)
 
  The device and software "BeeApiary" is intended for the creation of permanent care for vital activity of a bee family (hive) or an apiary in general. The system collects information about weight hive, temperature inside and outside, humidity, pressure, etc. Collected information helps the beekeeper to monitor the various stages of the development of the family, to make analyzes and forecasts. 
 
@@ -22,6 +20,11 @@ Tested on:
 
 Як налаштувати роботу в фоновому режимі якщо щось пішло не так
 https://express.ms/faq/background-work-fix/
+
+Version:  1.57f37102ee(2024-07-15 23:15:31 +0300)
+  - Filter data fixes
+  - Toast message for downloaded data has been added
+  - Minor fixes after download tests
 
 Version History
 Version:  1.68148258ae(2024-07-15 18:25:25 +0300)
