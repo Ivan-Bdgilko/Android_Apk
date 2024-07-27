@@ -1,7 +1,6 @@
 Latest:
 Version:  05218d02ae(2024-07-27 16:10:05 +0300)
-  - Add filter seting
-  - fix setting extra one value
+  - Add fail data filter setting
   - download 12 month backward offline data
 
  The device and software "BeeApiary" is intended for the creation of permanent care for vital activity of a bee family (hive) or an apiary in general. The system collects information about weight hive, temperature inside and outside, humidity, pressure, etc. Collected information helps the beekeeper to monitor the various stages of the development of the family, to make analyzes and forecasts. 
