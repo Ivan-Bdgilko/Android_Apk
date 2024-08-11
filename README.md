@@ -18,11 +18,10 @@ It is also worth adding that the device does not collect personal and technical 
  - Samsung A13(A135U1), Android 13 (API 33)
  - Samsung S22(S901B), Android 13 (API 33) 
  - Samsung S24(S921B), Android 14 (API 34)
- - 
+   
 ### Useful project links:
  - Information about device and firmware [here](https://github.com/Ivan-Bdgilko/Hive_Controller)
- - general manual user UKR [here](https://github.com/Ivan-Bdgilko/Apiary_Docs/blob/main/Manual%20User.pdf)
-
+ - General user manual UKR (12 pages) [here](https://github.com/Ivan-Bdgilko/Apiary_Docs/blob/main/Manual%20User.pdf)
  - Foreground mode for Android app [here](https://express.ms/faq/background-work-fix)
 
 Version:  706f427ea4(2024-08-11 13:46:41 +0300)
