@@ -1,3 +1,5 @@
+![Screenshot](./doc/images/screen-wide.jpg)
+
 Latest:
 Version:  706f427ea4(2024-08-11 13:46:41 +0300)
 -  Dark theme for all views and fragments
