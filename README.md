@@ -6,6 +6,7 @@ Version:  706f427ea4(2024-08-11 13:46:41 +0300)
 -  Updated data presentation on graphs
 -  The calculation battery discharge and weight changing per day had been added
 
+## Philosophy
  The device and software "BeeApiary" is intended for the creation of permanent care for vital activity of a bee family (hive) or an apiary in general. The system collects information about weight hive, temperature inside and outside, humidity, pressure, etc. Collected information helps the beekeeper to monitor the various stages of the development of the family, to make analyzes and forecasts. 
 
 In the summer, this way you can see the overhang of collected honey or prevent unwanted swarming.    
