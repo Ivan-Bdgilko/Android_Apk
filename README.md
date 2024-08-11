@@ -1,4 +1,4 @@
-![Screenshot](./doc/images/screen-wide.png)
+![Screenshot](./docs/images/screen-wide.png)
 
 Latest:
 Version:  706f427ea4(2024-08-11 13:46:41 +0300)
