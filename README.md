@@ -27,4 +27,4 @@ It is also worth adding that the device does not collect personal and technical 
  - General user manual UKR (12 pages) [here](https://github.com/Ivan-Bdgilko/Apiary_Docs/blob/main/Manual%20User.pdf)
  - Foreground mode for Android app [here](https://express.ms/faq/background-work-fix)
 
-Version:  706f427ea4(2024-08-11 13:46:41 +0300)
+Version: 1.307643ca3b(2024-08-18 22:34:20 +0300)
