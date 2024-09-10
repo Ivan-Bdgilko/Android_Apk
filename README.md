@@ -16,6 +16,10 @@
 
 It is also worth adding that the device does not collect personal and technical information and does not transfer it to third parties.
 
+### Planed works:
+ - Light version based on flutter
+ - Add actions(Events) as a chart element on native Android version
+
 ### Tested on:
  - Lenovo YT-X705F, Android 10 (API 29)
  - Samsung A13(A135U1), Android 13 (API 33)
