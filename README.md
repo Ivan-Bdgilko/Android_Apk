@@ -1,4 +1,4 @@
-![Screenshot](./docs/images/screen-wide.png) ![Screenshot](./docs/images/screen-wide1.png)
+![Screenshot](./docs/images/screen-wide.png width="200" height="100") ![Screenshot](./docs/images/screen-wide1.png)
 
 ## Philosophy
  The device and software "BeeApiary" is intended for the creation of permanent care for vital activity of a bee family (hive) or an apiary in general. The system collects information about weight hive, temperature inside and outside, humidity, pressure, etc. Collected information helps the beekeeper to monitor the various stages of the development of the family, to make analyzes and forecasts. 
