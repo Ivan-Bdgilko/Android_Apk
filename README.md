@@ -21,7 +21,6 @@ It is also worth adding that the device does not collect personal and technical 
  - Add actions(Events) as a chart element on native Android version
 
 ### Tested on:
- - Lenovo YT-X705F, Android 10 (API 29)
  - Samsung A13(A135U1), Android 13 (API 33)
  - Samsung S22(S901B), Android 13 (API 33) 
  - Samsung S24(S921B), Android 14 (API 34)
