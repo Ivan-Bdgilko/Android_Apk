@@ -1,3 +1,5 @@
+Youtube інструкція тут: https://www.youtube.com/@apiary4bee
+
 ![Screenshot](./docs/images/screen-wide.png) ![Screenshot](./docs/images/screen-wide1.png)
 
 ## Philosophy
