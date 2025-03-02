@@ -1,6 +1,6 @@
 Youtube інструкція тут: https://www.youtube.com/@apiary4bee
 
-Actual version: 3.1.81d4289da2(2025-02-18)
+Actual version: 3.1.f565fa7756(2025-03-02)
 
 ![Screenshot](./docs/images/screen-wide.png) ![Screenshot](./docs/images/screen-wide1.png)
 
