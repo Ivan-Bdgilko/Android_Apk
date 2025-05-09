@@ -1,8 +1,15 @@
 Youtube інструкція тут: https://www.youtube.com/@apiary4bee
 
-Actual version: 3.1.f565fa7756(2025-03-02)
+Actual version: 3.1.3b9dbaa6b5(2025-05-09)
+ - додані дінамічні періоди перегляду (клікабелні іконки періодів)
+   ![Screenshot](./docs/images/Screen_up_plus.png) 
+   ![Screenshot](./docs/images/Screen_up.png)  
+ - збереження налаштувань графіків
 
-![Screenshot](./docs/images/screen-wide.png) ![Screenshot](./docs/images/screen-wide1.png)
+![Screenshot](./docs/images/Settings_save.png) 
+
+![Screenshot](./docs/images/screen-wide.png)
+<!---![Screenshot](./docs/images/screen-wide1.png) -->
 
 ## Philosophy
  The device and software "BeeApiary" is intended for the creation of permanent care for vital activity of a bee family (hive) or an apiary in general. The system collects information about weight hive, temperature inside and outside, humidity, pressure, etc. Collected information helps the beekeeper to monitor the various stages of the development of the family, to make analyzes and forecasts. 
