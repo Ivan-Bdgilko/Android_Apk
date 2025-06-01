@@ -1,4 +1,4 @@
-Youtube інструкція тут: https://www.youtube.com/@apiary4bee
+Youtube інструкція тут: https://www.youtube.com/watch?v=a2y94tJWnhs
 
 Actual version: 3.1.3b9dbaa6b5(2025-05-09)
  - додані дінамічні періоди перегляду (клікабелні іконки періодів)
