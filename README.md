@@ -3,7 +3,8 @@ Youtube інструкція тут: (https://www.youtube.com/watch?v=a2y94tJWnh
 Actual version: 3.1.3b9dbaa6b5(2025-05-09)
  - додані дінамічні періоди перегляду (клікабелні іконки періодів)
    
-   ![Screenshot](./docs/images/Screen_up_plus.png) 
+   ![Screenshot](./docs/images/Screen_up_plus.png)
+   
    ![Screenshot](./docs/images/Screen_up.png)  
  - збереження налаштувань графіків
 
