@@ -1,9 +1,16 @@
 Youtube інструкція тут: (https://www.youtube.com/watch?v=a2y94tJWnhs)
 
-Actual version: 3.1.50c6afa9ae(2025-05-29)
-   - додані додаткові розрахунки денного приросту ваги під графіком    
+### Actual version: 3.1.52c51ccd7f(2025-06-08)
+   - оновлено керування філтрами та обробка хибних значень температури які раптово виникають 
+   та дуже погіршують наглядність діаграм   
+## До фільтрації
+  ![Screenshot](./docs/images/before_filter.jpg)
+## фільтр налаштовано
+![Screenshot](./docs/images/filter_on.jpg)
+## Після фільтрації
+  ![Screenshot](./docs/images/after_filter.jpg)
 
- ![Screenshot](./docs/images/Screen_daily_up.jpg)
+
 
 <!---
 ![Screenshot](./docs/images/screen-wide.png)
@@ -39,7 +46,12 @@ It is also worth adding that the device does not collect personal and technical 
  - Foreground mode for Android app [here](https://express.ms/faq/background-work-fix)
 
 
-Actual version: 3.1.3b9dbaa6b5(2025-05-09)
+#### version: 3.1.50c6afa9ae(2025-05-29)
+   - додані додаткові розрахунки денного приросту ваги під графіком
+
+  ![Screenshot](./docs/images/Screen_daily_up.jpg)  
+
+  #### version: 3.1.3b9dbaa6b5(2025-05-09)
  - додані дінамічні періоди перегляду (клікабелні іконки періодів)
 
    ![Screenshot](./docs/images/Screen_up_plus.png) 
