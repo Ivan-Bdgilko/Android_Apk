@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.beeappiary",
+  "applicationId": "com.beeapiary",
   "variantName": "debug",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 1,
-      "versionName": "3.1.52c51ccd7f(2025-06-08)",
-      "outputFile": "BeeAppiary.apk"
+      "versionCode": 24,
+      "versionName": "4.0.fc3db5d400(2025-09-12)",
+      "outputFile": "BeeApiary.apk"
     }
   ],
   "elementType": "File",
