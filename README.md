@@ -42,7 +42,7 @@ It is also worth adding that the device does not collect personal and technical 
    
 ### Useful project links:
  - Information about device and firmware [here](https://github.com/Ivan-Bdgilko/Hive_Controller)
- - General user manual UKR (18 pages) [here](https://github.com/Ivan-Bdgilko/Apiary_Docs/blob/main/Manual%20User.pdf)
+ - General user manual UKR (18 pages) [here](https://github.com/Ivan-Bdgilko/Apiary_docs/blob/main/User%20Manual.pdf)
  - Foreground mode for Android app [here](https://express.ms/faq/background-work-fix)
 
 
