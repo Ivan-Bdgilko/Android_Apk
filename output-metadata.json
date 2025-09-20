@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 24,
-      "versionName": "4.0.fc3db5d400(2025-09-12)",
-      "outputFile": "BeeApiary.apk"
+      "versionCode": 40,
+      "versionName": "4.2.33d74385d5(2025-09-20)",
+      "outputFile": "BeeApiary-debug.apk"
     }
   ],
   "elementType": "File",

@@ -1,16 +1,20 @@
+
+### Оновлення шукайте у Google Market (https://play.google.com/store/apps/details?id=com.beeapiary)
+
+### Actual version: 4.2.33d74385d5(2025-09-20)
+   - Додані події (додання, редагування подій та відображення на графіках)
+   - Оновлен інтрефейс 
+   - Доступ до бази прискорено
+   - Виправлено багато дрібниць
+   
+
+
 Youtube інструкція тут: (https://www.youtube.com/watch?v=a2y94tJWnhs)
 
-### Actual version: 3.1.52c51ccd7f(2025-06-08)
-   - оновлено керування філтрами та обробка хибних значень температури які раптово виникають 
-   та дуже погіршують наглядність діаграм   
-## До фільтрації
-  ![Screenshot](./docs/images/before_filter.jpg)
-## фільтр налаштовано
-![Screenshot](./docs/images/filter_on.jpg)
-## Після фільтрації
-  ![Screenshot](./docs/images/after_filter.jpg)
-
-
+### Localization (мови інтерфейсу)
+ - Українська
+ - English
+ - Polska
 
 <!---
 ![Screenshot](./docs/images/screen-wide.png)
@@ -33,17 +37,28 @@ Youtube інструкція тут: (https://www.youtube.com/watch?v=a2y94tJWnh
 It is also worth adding that the device does not collect personal and technical information and does not transfer it to third parties.
 
 ### Planed works:
- - Add actions(Events) as a chart element on native Android version
+ - (DONE) Add actions(Events) as a chart element on native Android version
 
 ### Tested on:
- - Samsung A13(A135U1), Android 13 (API 33)
- - Samsung S22(S901B), Android 13 (API 33) 
- - Samsung S24(S921B), Android 14 (API 34)
+  Google Closed testing - Alpha (DONE) More than 20 devices
+
    
 ### Useful project links:
  - Information about device and firmware [here](https://github.com/Ivan-Bdgilko/Hive_Controller)
  - General user manual UKR (18 pages) [here](https://github.com/Ivan-Bdgilko/Apiary_docs/blob/main/User%20Manual.pdf)
  - Foreground mode for Android app [here](https://express.ms/faq/background-work-fix)
+
+
+### version: 3.1.52c51ccd7f(2025-06-08)
+   - оновлено керування філтрами та обробка хибних значень температури які раптово виникають 
+   та дуже погіршують наглядність діаграм   
+## До фільтрації
+  ![Screenshot](./docs/images/before_filter.jpg)
+## фільтр налаштовано
+![Screenshot](./docs/images/filter_on.jpg)
+## Після фільтрації
+  ![Screenshot](./docs/images/after_filter.jpg)
+
 
 
 #### version: 3.1.50c6afa9ae(2025-05-29)
